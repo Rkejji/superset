@@ -76,6 +76,7 @@ Join our growing community!
 - [A3Data](https://a3data.com.br) [@neylsoncrepalde]
 - [Analytics Aura](https://analyticsaura.com/) [@Analytics-Aura]
 - [Apollo GraphQL](https://www.apollographql.com/) [@evans]
+- [Artefact](https://www.artefact.com/) [@rkejji]
 - [Astronomer](https://www.astronomer.io) [@ryw]
 - [Avesta Technologies](https://avestatechnologies.com/) [@TheRum]
 - [Caizin](https://caizin.com/) [@tejaskatariya]
